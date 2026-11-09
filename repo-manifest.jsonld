@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/BililiveRecorder/BililiveRecorder/commit/2744d605b93fec44d00a7957de93ec3148e412fc",
       "git:hexsha": "2744d605b93fec44d00a7957de93ec3148e412fc",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T15:46:33.875846+00:00"
     },
     {
       "@id": "https://repolex.ai/r/BililiveRecorder/BililiveRecorder/commit/b2cc98e14f7eb15057ddf1e3ccfc7bdbf36f1a1a",
