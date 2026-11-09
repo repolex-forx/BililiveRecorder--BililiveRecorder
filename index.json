@@ -1,0 +1,11 @@
+{
+  "org": "BililiveRecorder",
+  "repo": "BililiveRecorder",
+  "versions": [
+    {
+      "commit": "2744d605b93fec44d00a7957de93ec3148e412fc",
+      "tag": "",
+      "parsed_at": "2026-11-09T15:46:33.876838+00:00"
+    }
+  ]
+}
